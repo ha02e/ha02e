@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi👋
+# LeeHaYoung | 이하영
 <!--
 **ha02e/ha02e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
