@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ha02e&label=Profile%20views&color=0e75b6&style=flat" alt="ha02e" /> </p>
 
-- 🌱 I’m currently learning **JAVA, Servlet, Spring, Oracle, HTML, CSS**
+- 🌱 I’m currently learning **JAVA, Servlet, Spring, Oracle, JavaScript, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4](https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4)
 
