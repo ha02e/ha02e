@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm HaYoung!</h1>
-<h3 align="center"></h3>
+<h2 align="center">Hi 👋, I'm HaYoung!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ha02w&label=Profile%20views&color=0e75b6&style=flat" alt="ha02w" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ha02e&label=Profile%20views&color=0e75b6&style=flat" alt="ha02e" /> </p>
 
 - 🌱 I’m currently learning **JAVA, Servlet, Spring, Oracle, HTML, CSS**
 
