@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 
 ## Hi 👋, I'm HaYoung!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ha02e&label=Profile%20views&color=0e75b6&style=flat" alt="ha02e" /> </p>
+<p align="left"> 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fha02e&count_bg=%233589C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<img src="https://komarev.com/ghpvc/?username=ha02e&label=Profile%20views&color=0e75b6&style=flat" alt="ha02e" /> 
+</p>
 
 - 🌱 I’m currently learning **JAVA, Servlet, Spring, Oracle, JavaScript, HTML, CSS**
 
