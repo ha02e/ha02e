@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ha02e@naver.com**
 
-- 📄 Know about my experiences [https://www.notion.so/322c86fafe614535b1412d3c89700a84?pvs=4](https://www.notion.so/322c86fafe614535b1412d3c89700a84?pvs=4)
+- 📄 Know about my resume [https://www.notion.so/322c86fafe614535b1412d3c89700a84?pvs=4](https://www.notion.so/322c86fafe614535b1412d3c89700a84?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
