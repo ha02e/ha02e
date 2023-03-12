@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 
 ![HaYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha02e&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha02e)](https://github.com/ha02e/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ha02e&" alt="ha02e" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ha02e&show_icons=true&locale=en&layout=compact" alt="ha02e" /></p>
