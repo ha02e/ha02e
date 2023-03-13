@@ -33,14 +33,15 @@ Here are some ideas to get you started:
 
 ---
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ha02e" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/121777501/224528829-4d6ef626-10df-402a-a0be-60c5d2933d97.png" alt="ha02e" height="30" width="30" />
+  <img align="center" src="https://user-images.githubusercontent.com/121777501/224700018-79d68b03-ecd6-4db1-9a27-88b59d90ffc3.png" alt="ha02e" height="30" width="30" />
 </a> 
 &nbsp;
 <a href="https://www.notion.so/Study-4727d4391dbf40a3902f4ffcfdf87ac8?pvs=4" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/121777501/224528788-1d888398-c307-452e-be54-23b62d5f9dbd.png" alt="ha02e" height="30" width="30" />
+  <img align="center" src="https://user-images.githubusercontent.com/121777501/224700322-9b3241d5-b8da-47e3-b0ca-97cefcdeb7b6.png" alt="ha02e" height="30" width="30" />
 </a>
 &nbsp;
 <a href="https://velog.io/@ha02e" target="blank">
