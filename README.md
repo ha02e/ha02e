@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 &nbsp;
 <a href="https://instagram.com/ha02e" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" alt="ha02e" height="30" width="30" /></a>
 </p>
+
+<h3 align="left">Velog Post</h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=ha02e)
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -85,13 +89,3 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ha02e&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ha02e" />
 </p>
-<br>
-<hr>
-
-<h3 align="left">Velog Post</h3>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e)](https://velog-readme-stats.vercel.app/api/redirect?name=ha02e)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=algolia)](https://github.com/eungyeole/velog-readme-stats)
-<h3 align="left">Velog Post</h3>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=ha02e)
