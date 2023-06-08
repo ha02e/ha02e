@@ -83,4 +83,15 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ha02e&theme=algolia&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ha02e&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ha02e" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ha02e&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ha02e" />
+</p>
+<br>
+<hr>
+
+<h3 align="left">Velog Post</h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=algolia)](https://github.com/eungyeole/velog-readme-stats)
+<h3 align="left">Velog Post</h3>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=ha02e)
