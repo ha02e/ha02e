@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Velog Post</h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e)](https://velog-readme-stats.vercel.app/api/redirect?name=ha02e)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=algolia)](https://github.com/eungyeole/velog-readme-stats)
 <h3 align="left">Velog Post</h3>
