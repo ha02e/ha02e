@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🌱 I’m currently learning **JAVA, Servlet, Spring, SpringBoot, Mybatis, Oracle, JavaScript, Ajax, HTML, CSS**
-- :scroll: Know about my resume [https://www.notion.so/322c86fafe614535b1412d3c89700a84?pvs=4](https://www.notion.so/322c86fafe614535b1412d3c89700a84?pvs=4)
+- :scroll: Know about my resume https://career.programmers.co.kr/pr/gkdud9870_9419
 - :open_file_folder: All of my projects [https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4](https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4)
 - :speech_balloon: I regularly write articles on [https://velog.io/@ha02e](https://velog.io/@ha02e)
 - :mailbox_with_mail: How to reach me **ha02e@naver.com**
