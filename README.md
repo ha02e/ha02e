@@ -81,9 +81,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">my github stats</h3>
 
-![HaYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha02e&show_icons=true&theme=algolia)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ha02e&theme=algolia&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ha02e&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ha02e" />
-</p>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia" height="200"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ha02e&show_icons=true&locale=en&layout=donut&theme=algolia" alt="ha02e" height="200"/>
+  
+</div>
