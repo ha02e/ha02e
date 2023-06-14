@@ -1,4 +1,3 @@
-# LeeHaYoung | 이하영
 <!--
 **ha02e/ha02e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 이하영입니다!
+<div> 
+  <a href="https://career.programmers.co.kr/pr/gkdud9870_9419"><img src="https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=readme&logoColor=white&link=https://velog.io/@ha02e"/></a>
+  <a href="https://ha02e.github.io/Portfolio"><img src="https://img.shields.io/badge/Web%20Portfolio-9999FF?style=flat-square&logo=google-chrome&logoColor=white&link=https://ha02e.github.io/Portfolio/"/></a>
+  <a href="https://velog.io/@ha02e"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ha02e"/></a>
+  <a href="https://github.com/ha02e"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ha02e"></a>
+</div>
 
+<br>
 
-
-## Hi 👋, I'm HaYoung:smiley:
-
-<a href="https://velog.io/@ha02e"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ha02e"/></a>
-
-[![Website Badge](https://img.shields.io/badge/WebPortfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://ha02e.github.io/Portfolio/])
-
-<p align="left"> 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fha02e&count_bg=%233589C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-<img src="https://komarev.com/ghpvc/?username=ha02e&label=Profile%20views&color=0e75b6&style=flat" alt="ha02e" /> 
-</p>
 
 - 🌱 I’m currently learning **JAVA, Servlet, Spring, SpringBoot, Mybatis, Oracle, JavaScript, Ajax, HTML, CSS**
 - :scroll: Know about my resume https://career.programmers.co.kr/pr/gkdud9870_9419
@@ -91,3 +87,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ha02e&show_icons=true&locale=en&layout=donut&theme=algolia" alt="ha02e" height="200"/>
   
 </div>
+
+<br>
+
+<p align="left"> 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fha02e&count_bg=%233589C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<img src="https://komarev.com/ghpvc/?username=ha02e&label=Profile%20views&color=0e75b6&style=flat" alt="ha02e" /> 
+</p>
