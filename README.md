@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <a href="https://ha02e.github.io/Portfolio"><img src="https://img.shields.io/badge/Web%20Portfolio-9999FF?style=flat-square&logo=google-chrome&logoColor=white&link=https://ha02e.github.io/Portfolio/"/></a>
   <a href="https://velog.io/@ha02e"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ha02e"/></a>
   <a href="https://github.com/ha02e"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ha02e"></a>
+   <a href="ha02e@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=naver&logoColor=white&link=ha02e@naver.com"></a>
 </div>
 
 <br>
