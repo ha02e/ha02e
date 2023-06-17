@@ -28,33 +28,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **JAVA, Servlet, Spring, SpringBoot, Mybatis, Oracle, JavaScript, Ajax, HTML, CSS**
 - :scroll: Know about my resume https://career.programmers.co.kr/pr/gkdud9870_9419
 - :open_file_folder: All of my projects [https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4](https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4)
-- :speech_balloon: I regularly write articles on [https://velog.io/@ha02e](https://velog.io/@ha02e)
 - :mailbox_with_mail: How to reach me **ha02e@naver.com**
-
-
-
----
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ha02e" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/121777501/224700018-79d68b03-ecd6-4db1-9a27-88b59d90ffc3.png" alt="ha02e" height="30" width="30" />
-</a> 
-&nbsp;
-<a href="https://velog.io/@ha02e/series" target="blank">
-  <img align="center" src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png" alt="ha02e" height="30" width="30" />
-</a>
-&nbsp;
-<a href="https://www.notion.so/Study-4727d4391dbf40a3902f4ffcfdf87ac8?pvs=4" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/121777501/224700322-9b3241d5-b8da-47e3-b0ca-97cefcdeb7b6.png" alt="ha02e" height="30" width="30" />
-</a>
-</p>
+- :speech_balloon: I regularly write articles on [https://velog.io/@ha02e](https://velog.io/@ha02e)
 
 <h3 align="left">📝 Velog Post</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=ha02e)
 <hr>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
