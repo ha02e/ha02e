@@ -28,12 +28,17 @@ Here are some ideas to get you started:
 - 🌱 **Back-End Developer | Web Developer**
 - :scroll: Know about my resume https://career.programmers.co.kr/pr/gkdud9870_9419
 - :open_file_folder: All of my projects [https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4](https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4)
-- :mailbox_with_mail: How to reach me **ha02e@naver.com**
 - :speech_balloon: I regularly write articles on [https://velog.io/@ha02e](https://velog.io/@ha02e)
 
 <h3 align="left">📝 Velog Post</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=ha02e)
+
+<h3 align="left">✍ Education</h3>
+
+- 클라우드(AWS) 기반 자바(JAVA) 백엔드 웹개발자 [Spring]_A <sub>(2022.11 ~ 2023.04)</sub>
+- 적응형 웹디자인 제작 전문가 <sub>(2018.11 ~ 2019.04)</sub>
+
 <hr>
 
 
