@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 **Back-End Developer | Web Developer**
 - :scroll: Know about my resume https://career.programmers.co.kr/pr/gkdud9870_9419
-- :open_file_folder: All of my projects [https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4](https://www.notion.so/Portfolio-9291903fc38e4b10a2d7ccb18928ebff?pvs=4)
+- :open_file_folder: All of my projects [https://velog.io/@ha02e/series/팀프로젝트](https://velog.io/@ha02e/series/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - :speech_balloon: I regularly write articles on [https://velog.io/@ha02e](https://velog.io/@ha02e)
 
 <h3 align="left">📝 Velog Post</h3>
