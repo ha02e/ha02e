@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <h3 align="left">my github stats</h3>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia" height="200"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ha02e&show_icons=true&theme=algolia" height="200"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ha02e&show_icons=true&locale=en&layout=donut&theme=algolia" alt="ha02e" height="200"/>
   
 </div>
