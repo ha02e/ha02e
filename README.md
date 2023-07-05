@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - :open_file_folder: All of my projects [https://velog.io/@ha02e/series/팀프로젝트](https://velog.io/@ha02e/series/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - :speech_balloon: I regularly write articles on [https://velog.io/@ha02e](https://velog.io/@ha02e)
 
-<h3 align="left">📝 Velog Post</h3>
+<h3 align="left">📝 Recent Velog Post</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ha02e&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=ha02e)
 
