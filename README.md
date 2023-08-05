@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">✍ Education</h3>
 
-- 원티드 프리온보딩 백엔드 챌린지 8월 참가 <sub>(2023.07.31 ~ 2023.09.08)</sub>
 - 클라우드(AWS) 기반 자바(JAVA) 백엔드 웹개발자 [Spring]_A <sub>(2022.11 ~ 2023.04)</sub>
 - 적응형 웹디자인 제작 전문가 <sub>(2018.11 ~ 2019.04)</sub>
 
