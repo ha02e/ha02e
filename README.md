@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 
-- 🌱 **Back-End Developer | Web Developer**
+- 🌱 **Front-End Developer | Web Developer**
 - :scroll: Know about my resume https://career.programmers.co.kr/pr/gkdud9870_9419
 - :open_file_folder: All of my team projects [https://velog.io/@ha02e/series/팀프로젝트](https://velog.io/@ha02e/series/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - :open_file_folder: All of my personal projects [https://velog.io/@ha02e/series/개인프로젝트](https://velog.io/@ha02e/series/%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
