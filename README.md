@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## 안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 이하영입니다!
 <div> 
   <a href="https://career.programmers.co.kr/pr/gkdud9870_9419"><img src="https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=readme&logoColor=white&link=https://velog.io/@ha02e"/></a>
-  <a href="https://ha02e.github.io/Portfolio"><img src="https://img.shields.io/badge/Web%20Portfolio-9999FF?style=flat-square&logo=google-chrome&logoColor=white&link=https://ha02e.github.io/Portfolio/"/></a>
   <a href="https://velog.io/@ha02e"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ha02e"/></a>
   <a href="https://github.com/ha02e"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/ha02e"></a>
    <a href="mailto:ha02e@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:ha02e@naver.com"></a>
@@ -45,17 +44,17 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+   &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   &nbsp;
